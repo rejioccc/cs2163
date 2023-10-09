@@ -10,7 +10,7 @@ public class OverloadingMethods {
 	 * @param args
 	 */
 	public static void main(String [] args) {
-		System.out.println("The minimum of 5 and 6 is " + min (5,6));
+		System.out.println("The minimum of 5 and 6 is " + min (5,7));
 		
 		System.out.println("The minimum of 5.4 and 5.1 is " + min (5.4,5.1));
 		
